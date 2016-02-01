@@ -1,0 +1,30 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "libs/typings",
+  "bundle": "libs/typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "78d36dd49b6b55b9fdfe61776a12bf05c8b07777"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "78d36dd49b6b55b9fdfe61776a12bf05c8b07777"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "78ba6e41543e5ababbd1dda19797601be3c1f304"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "4c41545030eba44b27ce7209112dbf862f6b1d78"
+    },
+    "angularjs/angular-mocks.d.ts": {
+      "commit": "4c41545030eba44b27ce7209112dbf862f6b1d78"
+    }
+  }
+}

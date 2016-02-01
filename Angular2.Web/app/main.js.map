@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.ts"],"names":[],"mappings":"AAAA,wBAAyB,2BAA2B,CAAC,CAAA;AACrD,4BAAyB,eAAe,CAAC,CAAA;AACzC,mBAAS,CAAC,wBAAU,CAAC,CAAC","file":"main.js","sourcesContent":["import {bootstrap}  from 'angular2/platform/browser';\r\nimport {HelloWorld} from './hello_world';\r\nbootstrap(HelloWorld);\r\n"],"sourceRoot":"/source/"}
