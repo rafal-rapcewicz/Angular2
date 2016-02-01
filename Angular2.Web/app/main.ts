@@ -1,3 +1,3 @@
-﻿import {bootstrap}  from 'angular2/platform/browser';
-import {HelloWorld} from './hello_world';
-bootstrap(HelloWorld);
+﻿import {bootstrap} from 'angular2/platform/browser';
+import {TodoApp}   from './todo_app';
+bootstrap(TodoApp);
